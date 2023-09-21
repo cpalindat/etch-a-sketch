@@ -1,0 +1,14 @@
+.boardRow {
+    display: flex;
+}
+
+.boardCell {
+    height: 48px;
+    width: 48px;
+    outline-color: black;
+    outline-style: solid;
+}
+
+.filled {
+    background-color: black;
+}
